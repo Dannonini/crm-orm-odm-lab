@@ -126,4 +126,5 @@ En `tests/setup.js`, antes de cada suite (`beforeAll`) se conecta a PostgreSQL y
 El reto más difícil fue el 05 porque no sabía cómo traer los contactos junto con la compañía. Revisé el index.js, vi que el alias era contacts y lo usé en el include. Un mensaje de Jest que me ayudó fue el del reto 01, donde decía que esperaba 8 contactos y recibía 0, y eso me mostró que getAll devolvía un arreglo vacío.
 
 ## Evidencia
+<img width="758" height="362" alt="imagen" src="https://github.com/user-attachments/assets/7d0029e3-7e96-4e06-9636-c803562459cc" />
 
